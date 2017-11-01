@@ -9,3 +9,5 @@ test master 1
 test master 2
 
 test branch 1
+
+test branch 2
