@@ -7,3 +7,5 @@ test new 2
 test master 1
 
 test master 2
+
+test branch 1
